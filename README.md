@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36F7B7&width=435&lines=Thanks+for+stopping+by!+🌟;Happy+coding!+👨‍💻+✨" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36F7B7&width=435&lines=Majidov+Doniyor!+🌟;Happy+coding!+👨‍💻+✨" alt="Typing SVG">
 </p>
 
