@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Majidov Doniyor!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building web apps, solving complex problems, and learning new technologies. 🚀
 
