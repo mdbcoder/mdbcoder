@@ -1,3 +1,5 @@
+# 🌟 Welcome to My GitHub Profile! 🌟
+
 # 👋 Hi, I'm Majidov Doniyor!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building web apps, solving complex problems, and learning new technologies. 🚀
@@ -14,3 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 - 🌐 Portfolio: <a href="https://urik.uz/" target='_blank'>urik.uz</a> 
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36F7B7&width=435&lines=Thanks+for+stopping+by!+🌟;Happy+coding!+👨‍💻+✨" alt="Typing SVG">
+</p>
+
