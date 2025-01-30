@@ -25,19 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdbcoder&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbcoder&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbcoder&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E07A5F&vCenter=true&width=435&lines=Majidov+Doniyor!;Happy+coding!+👨‍💻+✨" alt="Typing SVG">
 </p>
