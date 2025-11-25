@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 ### ⚙️ **Technologies & Tools**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-339933?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
